@@ -142,7 +142,7 @@ main h3{
     line-height: 60px; 
     max-width: 519px;
 }
-.inline{
+.outline{
     display: flex;
     column-gap: 20px;
     align-items:center;
